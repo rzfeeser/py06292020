@@ -1,0 +1,9 @@
+Tuesday Morning Exercise:
+(2020-06-30)
+
+Take ISS location data from http://api.open-notify.org/iss-now.json and display it any way you would like!
+  - You can copy and paste it into your script (assign it to a variable)
+  - read it in from a file
+  - use an API request library
+  - be sure to write your script in the ~/mycode/ directory
+  - augment with http://api.open-notify.org/astros.json

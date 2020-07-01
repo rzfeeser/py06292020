@@ -1,0 +1,11 @@
+Python built in functions:
+https://docs.python.org/3/library/functions.html
+
+YAML spec:
+https://yaml.org/spec/1.2/spec.html
+
+
+
+List of APIs:
+- http://api.open-notify.org/astros.json
+- http://api.open-notify.org/iss-now.json

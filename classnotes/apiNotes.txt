@@ -1,0 +1,46 @@
+This is what we want to achieve...
+
+Python                                                      API (HTTP)
+
+HTTP GET --------------------------------------------------> https://api.spacexdata.com/v3/cores
+                                                             scheme      authority       path
+                                                           (protocol)     (IP:port)     (service)
+
+<---------------------------------------------------------- 200 + JSON
+
+
+
+
+# We need a way to...
+# 1) Send HTTP GET to our target URI (API)
+# 2) Capture the response code and any possible attachments
+# 3) Strip off JSON off the HTTP response code
+# 4) Dig through the data and display what we're interested in...
+
+# Python has 2 popular solutions...
+import urllib.request  # ships with std library
+# or
+import requests  # 3rd party, must install before you can import (python3 -m pip install requests)
+
+
+
+
+## STD PYTHON LIBRARY METHOD
+coreData = urllib.request.urlopen(SPACEXURI)
+HTTP GET --------------------------------------------------> https://api.spacexdata.com/v3/cores
+                                                             scheme      authority       path
+                                                           (protocol)     (IP:port)     (service)
+
+#coreData <---------------------------------------------------------- 200 + JSON
+
+
+
+
+
+## REQUESTS LIBRARY METHOD
+coreData = requests.get(SPACEXURI)
+HTTP GET --------------------------------------------------> https://api.spacexdata.com/v3/cores
+                                                             scheme      authority       path
+                                                           (protocol)     (IP:port)     (service)
+
+#coreData <---------------------------------------------------------- 200 + JSON
