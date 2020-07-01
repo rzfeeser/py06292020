@@ -1,0 +1,8 @@
+Wednesday Morning Exercise:
+(2020-07-01)
+
+The following API will return where in the world the IPv4 address 24.48.0.1 is located http://ip-api.com/json/24.48.0.1
+
+Write a program that accepts an IPv4 address from the user, and returns where that IP address is in the world
+
+Optional Challenge - Supply a list of IPs via an external file. Have your program look up each one, and write into the file where that IP address is located.
