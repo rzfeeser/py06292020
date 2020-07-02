@@ -2,6 +2,7 @@ Python Docs:
 https://docs.python.org/3/library/functions.html - standard library built in functions
 https://docs.python.org/3/library/argparse.html - arg parse
 https://docs.python.org/3/library/turtle.html - 
+https://matplotlib.org/gallery/index.html
 
 APIs / API documentation:
 http://api.open-notify.org/astros.json
@@ -9,6 +10,7 @@ http://api.open-notify.org/iss-now.json
 https://docs.spacexdata.com/?version=latest
 http://jservice.io/ - Jeopardy
 https://www.data.qld.gov.au/organization/environment-and-science - AU gov api, offers JSON via "data API"
+https://api.nasa.gov/ - nasa APIs
 
 White Papers:
 https://tools.ietf.org/html/rfc3986 - URIs
