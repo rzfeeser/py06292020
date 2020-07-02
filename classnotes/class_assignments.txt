@@ -1,0 +1,11 @@
+**Monday:** (pyb/labs) 10, 11, 12, 19
+**Optional HW:** (pyb/labs) 21, 22
+
+**Tuesday:** (pyb/labs) 21, 22, 25, 28, 30, 23, 28
+
+**Wednesday:** (pyb/labs) 29, 32, 37, 2 (read)
+**Optional HW:** (api/labs) 11 
+
+**Thursday:** (pyb/labs) 34, (api/labs) 12, 13 
+
+**Weekend**: Write a script showing off your Python skill set. Please upload to your GitHub by Monday morning with the name, `endweekonescript.py`. Will review scripts on Monday.

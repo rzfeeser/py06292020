@@ -1,0 +1,8 @@
+Thursday Morning Exercise:
+(2020-07-02)
+
+Please perform the following exercise
+  (api/labs) Lab 08 - List and Dict Modeling
+    - You will write an RPG Engine and supply it with a data structure
+    - Data structure is lists and dictionaries that represents the world the player can interact with
+    - if you finish early, try to expand the world or add a feature to the game
