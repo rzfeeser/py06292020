@@ -36,5 +36,8 @@ def main():
             house = requests.get(allegiance)
             print(house.json()['name'])
 
+
+# test with "Sylva Santagar"
+
 if __name__ == "__main__":
     main()
