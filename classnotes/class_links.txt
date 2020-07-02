@@ -1,11 +1,14 @@
-Python built in functions:
-https://docs.python.org/3/library/functions.html
+Python Docs:
+https://docs.python.org/3/library/functions.html - standard library built in functions
+https://docs.python.org/3/library/argparse.html - arg parse
+https://docs.python.org/3/library/turtle.html - 
 
-YAML spec:
-https://yaml.org/spec/1.2/spec.html
+APIs / API documentation:
+http://api.open-notify.org/astros.json
+http://api.open-notify.org/iss-now.json
+https://docs.spacexdata.com/?version=latest
+http://jservice.io/
 
-
-
-List of APIs:
-- http://api.open-notify.org/astros.json
-- http://api.open-notify.org/iss-now.json
+White Papers:
+https://tools.ietf.org/html/rfc3986 - URIs
+https://yaml.org/spec/1.2/spec.html - YAML spec
