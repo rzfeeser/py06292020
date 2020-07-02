@@ -7,7 +7,8 @@ APIs / API documentation:
 http://api.open-notify.org/astros.json
 http://api.open-notify.org/iss-now.json
 https://docs.spacexdata.com/?version=latest
-http://jservice.io/
+http://jservice.io/ - Jeopardy
+https://www.data.qld.gov.au/organization/environment-and-science - AU gov api, offers JSON via "data API"
 
 White Papers:
 https://tools.ietf.org/html/rfc3986 - URIs
