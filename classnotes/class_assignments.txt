@@ -8,4 +8,4 @@
 
 **Thursday:** (pyb/labs) 34, (api/labs) 12, 13 
 
-**Weekend**: Write a script showing off your Python skill set. Please upload to your GitHub by Monday morning with the name, `endweekonescript.py`. Will review scripts on Monday.
+**Weekend**:  Finish (api/labs) 13. Write a script showing off your Python skill set. Please upload to your GitHub by Monday morning with the name, `endweekonescript.py`. Will review scripts on Monday.
