@@ -15,3 +15,7 @@ https://api.nasa.gov/ - nasa APIs
 White Papers:
 https://tools.ietf.org/html/rfc3986 - URIs
 https://yaml.org/spec/1.2/spec.html - YAML spec
+https://roy.gbiv.com/pubs/dissertation/rest_arch_style.htm - REST
+
+Apps:
+https://etcd.io/ - etcd
